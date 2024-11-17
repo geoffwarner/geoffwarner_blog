@@ -23,7 +23,7 @@ export default function Blog() {
         <article className="border border-black/[.08] dark:border-white/[.08] rounded-lg p-6 hover:bg-black/[.02] dark:hover:bg-white/[.02] transition-colors">
           <h2 className="text-xl font-semibold mb-2">Building with Next.js and React</h2>
           <p className="text-black/70 dark:text-white/70 mb-4">
-            A deep dive into modern web frameworks and how they're shaping the future of development.
+            A deep dive into modern web frameworks and how they&apos;re shaping the future of development.
           </p>
           <div className="text-sm text-black/50 dark:text-white/50">
             Posted on March 15, 2024
